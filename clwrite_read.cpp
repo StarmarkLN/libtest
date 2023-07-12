@@ -62,7 +62,7 @@ int clWrite_Read::Test (void)
         return 1;
     }
 
-	printf("p:");
+    printf("p:");
     printf ("name=\"%s\" booty=%lu beard_len=%u\n",
             p.name, p.booty, p.beard_len);
 
