@@ -22,6 +22,6 @@ private:
 	uint8_t mHead; 		// write pointer
 	uint8_t mTail; 		// read pointer
 	uint8_t mSize; 		// size buffer
-	T* mData;			// ptr to buffer
+	T* mData;		// ptr to buffer
 };
 
